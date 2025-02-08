@@ -1,6 +1,6 @@
 # awesome-daydreams
 <div align="center">
-  <img alt="starknet logo" src="./assets/banner.png" width="200" >
+  <img alt="starknet logo" src="./assets/banner.png">
   <h1 align="center">Awesome Daydreams</h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
@@ -21,6 +21,23 @@
 </div>
 
 ### Contents
+
+- [Resources](#resources)
+  - [Official](#official)
+  - [Tutorials and Examples](#tutorials-and-examples)
+  - [Articles and Blogs](#articles-and-blogs)
+  - [Papers](#papers)
+- [Ecosystem](#ecosystem)
+  - [Dapps](#dapps)
+  - [Community](#community)
+- [Additional developer resources](#additional-developer-resources)
+  - [Developer Tools](#developer-tools)
+
+- [Open-source projects](#open-source-projects)
+  - [Defi](#defi)
+  - [Gaming](#gaming)
+
+- [License](#license)
 
 ## Resources
 
@@ -50,6 +67,13 @@
 
 #### Developer Tools
 
+## Open-source projects
+
+#### Defi
+
+#### Gaming
+
+#### Social
 
 ---
 
