@@ -41,6 +41,12 @@
 ## Resources
 
 #### Official
+- [Github](https://github.com/daydreamsai/daydreams/tree/main) - Official Github repository.
+- [Website](https://www.dreams.fun/) - Official website.
+- [Docs](https://docs.dreams.fun/) - Official documentations.
+- [Discord](https://discord.com/invite/P8UUNGtHZs) - Official Discord server.
+- [Twitter](https://x.com/daydreamsagents) - Official Twitter account.
+- [Telegram](https://t.me/+kGzGMRvsQhY5Njg0) - Official Telegram channel.
 
 #### Tutorials and Examples
 - [basic-example](https://github.com/daydreamsai/daydreams/blob/main/examples/example-basic.ts) - Basic example demonstrating Daydreams.
