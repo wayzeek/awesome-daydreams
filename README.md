@@ -49,7 +49,7 @@
 
 
 #### Articles and Blogs
-
+- [Daydreams Deep Dive: A Technical Review of the Next-Gen Onchain Agent](https://dev.to/bruce_f98f32568eeb89017f9/daydreams-deep-dive-a-technical-review-of-the-next-gen-onchain-agent-4o61) - Community Post by [@LowCapLlama](https://x.com/LowCapLlama) 
 
 #### Papers
 
