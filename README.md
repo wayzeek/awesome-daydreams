@@ -1,4 +1,3 @@
-# awesome-daydreams
 <div align="center">
   <img alt="starknet logo" src="./assets/banner.png">
   <h1 align="center">Awesome Daydreams</h1>
