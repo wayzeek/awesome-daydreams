@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="starknet logo" src="./assets/banner.png">
+  <img alt="starknet logo" src="./assets/banner.png", width='500'>
   <h1 align="center">Awesome Daydreams</h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
