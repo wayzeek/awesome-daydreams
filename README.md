@@ -62,34 +62,35 @@
 - [discord-example](https://github.com/daydreamsai/daydreams/blob/main/examples/example-discord.ts) - Example demonstrating a Discord bot using Daydreams.
 
 #### Video Resources
-
+- Still dreaming...
 
 #### Articles and Blogs
 - [Daydreams Deep Dive: A Technical Review of the Next-Gen Onchain Agent](https://dev.to/bruce_f98f32568eeb89017f9/daydreams-deep-dive-a-technical-review-of-the-next-gen-onchain-agent-4o61) - Community Post by [@LowCapLlama](https://x.com/LowCapLlama) 
 
 #### Papers
-
+- Still dreaming...
 
 ## Ecosystem
 
 #### Dapps
-
+- Still dreaming...
 
 #### Community
-
+- Still dreaming...
 
 ## Additional developer resources
 
 #### Developer Tools
+- Still dreaming...
 
 ## Open-source projects
 
 #### Defi
-
+- Still dreaming...
 #### Gaming
-
+- Still dreaming...
 #### Social
-
+- Still dreaming...
 ---
 
 ## License
