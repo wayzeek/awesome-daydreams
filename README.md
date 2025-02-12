@@ -49,17 +49,17 @@
 - [Telegram](https://t.me/+kGzGMRvsQhY5Njg0) - Official Telegram channel.
 
 #### Tutorials and Examples
-- [basic-example](https://github.com/daydreamsai/daydreams/blob/main/examples/example-basic.ts) - Basic example demonstrating Daydreams.
-- [context-example](https://github.com/daydreamsai/daydreams/blob/main/examples/eternum-context.ts) - Example demonstrating how to give different kind of contexts to your Daydreams Agents.
-- [goal-example](https://github.com/daydreamsai/daydreams/blob/main/examples/example-goal.ts) - Example demonstrating goal-based agent functionality with Daydreams.
-- [api-example](https://github.com/daydreamsai/daydreams/blob/main/examples/example-api.ts) - Example demonstrating a Twitter bot using Daydreams.
-- [server-example](https://github.com/daydreamsai/daydreams/blob/main/examples/example-server.ts) - Example demonstrating how to integrate your Agents with a server.
-- [vision-example](https://github.com/daydreamsai/daydreams/blob/main/examples/example-vision.ts) - Example demonstrating a console-based chat interface using Daydreams.
-- [hyperliquid-example](https://github.com/daydreamsai/daydreams/blob/main/examples/example-hyperliquid.ts) - Example demonstrating a comprehensive Hyperliquid trading bot using Daydreams.
-- [sui-example](https://github.com/daydreamsai/daydreams/blob/main/examples/example-sui.ts) - Example demonstrating Sui interactions using Daydreams.
-- [telegram-example](https://github.com/daydreamsai/daydreams/blob/main/examples/example-telegram.ts) - Example demonstrating how to integrate Daydreams with Telegram.
-- [twitter-example](https://github.com/daydreamsai/daydreams/blob/main/examples/example-twitter.ts) - Example demonstrating how to integrate Daydreams with Twitter.
-- [discord-example](https://github.com/daydreamsai/daydreams/blob/main/examples/example-discord.ts) - Example demonstrating a Discord bot using Daydreams.
+- [basic-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-basic.ts) - Basic example demonstrating Daydreams.
+- [context-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/eternum-context.ts) - Example demonstrating how to give different kind of contexts to your Daydreams Agents.
+- [goal-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-goal.ts) - Example demonstrating goal-based agent functionality with Daydreams.
+- [api-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-api.ts) - Example demonstrating a Twitter bot using Daydreams.
+- [server-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-server.ts) - Example demonstrating how to integrate your Agents with a server.
+- [vision-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-vision.ts) - Example demonstrating a console-based chat interface using Daydreams.
+- [hyperliquid-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-hyperliquid.ts) - Example demonstrating a comprehensive Hyperliquid trading bot using Daydreams.
+- [sui-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-sui.ts) - Example demonstrating Sui interactions using Daydreams.
+- [telegram-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-telegram.ts) - Example demonstrating how to integrate Daydreams with Telegram.
+- [twitter-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-twitter.ts) - Example demonstrating how to integrate Daydreams with Twitter.
+- [discord-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-discord.ts) - Example demonstrating a Discord bot using Daydreams.
 
 #### Video Resources
 - Still dreaming...
