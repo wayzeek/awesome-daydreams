@@ -67,7 +67,7 @@
 
 #### v1-examples
 - [basic-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-basic.ts) - Basic example demonstrating a simple command line interface and Groq's LLM.
-- [chat-with-code-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-chat-with-code.ts) - Example demonstrating how to use Daydreams to chat with your code hosted on Github.
+- [chat-with-code-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-chat-with-code.ts) - Example demonstrating how to use Daydreams to chat with your code on Github.
 - [telegram-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-telegram.ts) - Example demonstrating how to integrate Daydreams with Telegram.
 - [twitter-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-twitter.ts) - Example demonstrating how to integrate Daydreams with Twitter.
 - [discord-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-discord.ts) - Example demonstrating a Discord bot using Daydreams.
