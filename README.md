@@ -47,8 +47,12 @@
 - [Discord](https://discord.com/invite/P8UUNGtHZs) - Official Discord server.
 - [Twitter](https://x.com/daydreamsagents) - Official Twitter account.
 - [Telegram](https://t.me/+kGzGMRvsQhY5Njg0) - Official Telegram channel.
+- [dreams-client](https://github.com/daydreamsai/dreams-client) - Official torrent client that will enable a P2P network to share agents' reasoning data.
+- [sleeves](https://github.com/daydreamsai/sleeves) - Official registry of context files for Daydreams agents.
 
-#### Tutorials and Examples
+### Tutorials and Examples
+
+#### v0-examples
 - [basic-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-basic.ts) - Basic example demonstrating Daydreams.
 - [context-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/eternum-context.ts) - Example demonstrating how to give different kind of contexts to your Daydreams Agents.
 - [goal-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-goal.ts) - Example demonstrating goal-based agent functionality with Daydreams.
@@ -60,6 +64,14 @@
 - [telegram-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-telegram.ts) - Example demonstrating how to integrate Daydreams with Telegram.
 - [twitter-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-twitter.ts) - Example demonstrating how to integrate Daydreams with Twitter.
 - [discord-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-discord.ts) - Example demonstrating a Discord bot using Daydreams.
+
+#### v1-examples
+- [basic-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-basic.ts) - Basic example demonstrating a simple command line interface and Groq's LLM.
+- [chat-with-code-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-chat-with-code.ts) - Example demonstrating how to use Daydreams to chat with your code hosted on Github.
+- [telegram-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-telegram.ts) - Example demonstrating how to integrate Daydreams with Telegram.
+- [twitter-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-twitter.ts) - Example demonstrating how to integrate Daydreams with Twitter.
+- [discord-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-discord.ts) - Example demonstrating a Discord bot using Daydreams.
+- [deep-research](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/deep-research/) - Example demonstrating how to use the deep-research extension on Daydreams agents.
 
 #### Video Resources
 - Still dreaming...
@@ -81,7 +93,8 @@
 ## Additional developer resources
 
 #### Developer Tools
-- Still dreaming...
+- [Pattern Analysis Agent](https://github.com/natefrog808/Pattern-Analysis-Agent) - Enterprise-grade system combining advanced pattern analysis and image processing, built on the Daydreams framework. Features include time-series analysis, anomaly detection, financial analytics, and object recognition.
+- [NEXUS-STREAM-AI](https://github.com/natefrog808/NEXUS-STREAM-AI) - AI-powered real-time data orchestration and analytics system built on Daydreams and Irys datachain for intelligent processing and blockchain storage.
 
 ## Open-source projects
 
