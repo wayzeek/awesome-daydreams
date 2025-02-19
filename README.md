@@ -117,7 +117,7 @@
 ## Open-source Projects
 
 ### DeFi
-- Still dreaming...
+- [Paradreams](https://github.com/milancermak/paradreams/tree/master) - Proof-of-concept of a Daydreams powered trading agent connected to [Paradex](https://www.paradex.trade/).
 
 ### Gaming
 - Still dreaming...
