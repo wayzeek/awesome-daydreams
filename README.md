@@ -55,26 +55,49 @@
 
 ### Tutorials and Examples
 
-#### v0 Examples
-- [basic-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-basic.ts) - A basic example demonstrating Daydreams.
-- [context-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/eternum-context.ts) - Example showcasing how to provide various contexts to Daydreams agents.
-- [goal-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-goal.ts) - Example demonstrating goal-based agent functionality.
-- [api-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-api.ts) - Example of a Twitter bot using Daydreams.
-- [server-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-server.ts) - Example of integrating Daydreams agents with a server.
-- [vision-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-vision.ts) - Example of a console-based chat interface using Daydreams.
-- [hyperliquid-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-hyperliquid.ts) - Example of a comprehensive Hyperliquid trading bot.
-- [sui-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-sui.ts) - Example of Sui interactions using Daydreams.
-- [telegram-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-telegram.ts) - Example of integrating Daydreams with Telegram.
-- [twitter-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-twitter.ts) - Example of integrating Daydreams with Twitter.
-- [discord-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v0/example-discord.ts) - Example of a Discord bot using Daydreams.
+#### Basic Examples
+- [Simple CLI Chat](https://github.com/daydreamsai/daydreams/blob/main/examples/basic/example-basic.ts) - Simple command-line chat interface using Groq's LLM.
+- [GitHub Code Assistant](https://github.com/daydreamsai/daydreams/blob/main/examples/basic/example-chat-with-code.ts) - Chat with your GitHub code repositories.
+- [Claude Chat Interface](https://github.com/daydreamsai/daydreams/blob/main/examples/basic/example-chat.tsx) - React-based chat interface using Anthropic's Claude model.
+- [Vector Memory](https://github.com/daydreamsai/daydreams/blob/main/examples/basic/example-vector.ts) - Vector storage integration with Chroma for enhanced memory.
 
-#### v1 Examples
-- [basic-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-basic.ts) - A basic command-line interface example using Groq's LLM.
-- [chat-with-code-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-chat-with-code.ts) - Example of using Daydreams to chat with your code on GitHub.
-- [telegram-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-telegram.ts) - Example of integrating Daydreams with Telegram.
-- [twitter-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-twitter.ts) - Example of integrating Daydreams with Twitter.
-- [discord-example](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/example-discord.ts) - Example of a Discord bot using Daydreams.
-- [deep-research](https://github.com/daydreamsai/daydreams/blob/main/examples/v1/deep-research/) - Example showcasing the deep-research extension on Daydreams agents.
+#### Blockchain/DeFi Examples
+- [Hyperliquid Trading Bot](https://github.com/daydreamsai/daydreams/blob/main/examples/chains/example-hyperliquid.ts) - Comprehensive trading bot for the Hyperliquid platform.
+- [Sui Blockchain Agent](https://github.com/daydreamsai/daydreams/blob/main/examples/chains/example-sui.ts) - Agent for interacting with the Sui blockchain.
+
+#### Computer Automation Examples
+- [Basic Computer Control](https://github.com/daydreamsai/daydreams/blob/main/examples/computer-usage/example-computer-actions.ts) - Control mouse and keyboard actions programmatically.
+- [Browser Automation](https://github.com/daydreamsai/daydreams/blob/main/examples/computer-usage/example-browser-automation.ts) - Automate browser interactions and web navigation.
+- [Terminal Command Execution](https://github.com/daydreamsai/daydreams/blob/main/examples/computer-usage/example-computer-bash.ts) - Execute terminal commands and process outputs.
+- [Advanced Task Automation](https://github.com/daydreamsai/daydreams/blob/main/examples/computer-usage/example-advanced-automation.ts) - Complex automation with task management.
+- [Bash Action Library](https://github.com/daydreamsai/daydreams/blob/main/examples/computer-usage/bash-actions.ts) - Library for executing bash commands and system operations.
+- [Bash Session Implementation](https://github.com/daydreamsai/daydreams/blob/main/examples/computer-usage/bash.ts) - Implementation of a bash session for terminal interaction.
+- [Automation Base Classes](https://github.com/daydreamsai/daydreams/blob/main/examples/computer-usage/base.ts) - Foundation classes for computer automation.
+- [Computer Control Actions](https://github.com/daydreamsai/daydreams/blob/main/examples/computer-usage/computer-actions.ts) - Actions for mouse, keyboard, and screen control.
+
+#### Deep Research
+- [Research Module Entry Point](https://github.com/daydreamsai/daydreams/blob/main/examples/deep-research/index.ts) - Main entry point for the deep research capabilities.
+- [Research Prompt Templates](https://github.com/daydreamsai/daydreams/blob/main/examples/deep-research/prompts.ts) - Specialized prompts for research tasks.
+- [Research Core Implementation](https://github.com/daydreamsai/daydreams/blob/main/examples/deep-research/research.ts) - Core research functionality and algorithms.
+- [Research Data Schemas](https://github.com/daydreamsai/daydreams/blob/main/examples/deep-research/schemas.ts) - Data structures for research information.
+
+#### Integration Examples
+- [Discord Bot](https://github.com/daydreamsai/daydreams/blob/main/examples/discord/example-discord.ts) - Discord bot with vector memory and research capabilities.
+- [Telegram Integration](https://github.com/daydreamsai/daydreams/blob/main/examples/telegram/index.ts) - Telegram bot using Groq's LLM for conversations.
+- [Twitter Bot](https://github.com/daydreamsai/daydreams/blob/main/examples/twitter/index.ts) - Twitter integration for automated interactions.
+
+#### Gaming Examples
+- [Gigaverse Game Integration](https://github.com/daydreamsai/daydreams/blob/main/examples/games/gigaverse/example-gigaverse.ts) - Integration with the Gigaverse game ecosystem.
+- [Gigaverse UI Example](https://github.com/daydreamsai/daydreams/blob/main/examples/games/gigaverse/example-gigaverse-simple-ui.ts) - Simple UI implementation for Gigaverse.
+- [Terminal UI for Games](https://github.com/daydreamsai/daydreams/blob/main/examples/games/gigaverse/simple-ui.ts) - Terminal-based UI for game interactions.
+
+#### MCP (Model Context Protocol) Examples
+- [MCP Agent Implementation](https://github.com/daydreamsai/daydreams/blob/main/examples/mcp/mcp-agent.ts) - Agent that connects to an MCP server.
+- [MCP Server Example](https://github.com/daydreamsai/daydreams/blob/main/examples/mcp/mcp-server-example.mjs) - Server implementation with resource templates and tools.
+
+#### Task Management Examples
+- [Hierarchical Goal Planning](https://github.com/daydreamsai/daydreams/blob/main/examples/tasks/example-task.ts) - Advanced hierarchical goal planning system.
+- [Eternum Game Agent](https://github.com/daydreamsai/daydreams/blob/main/examples/tasks/eternum.ts) - Specialized agent for the Eternum game ecosystem.
 
 ### Video Resources
 - Still dreaming...
@@ -117,7 +140,8 @@
 ## Open-source Projects
 
 ### DeFi
-- [Paradreams](https://github.com/milancermak/paradreams/tree/master) - Proof-of-concept of a Daydreams powered trading agent connected to [Paradex](https://www.paradex.trade/).
+- [Paradreams](https://github.com/milancermak/paradreams) - Proof-of-concept of a Daydreams powered trading agent connected to [Paradex](https://www.paradex.trade/).
+- [DS-Agents](https://github.com/defi-space/ds-agents) - A multi-agent system enabling autonomous agents to interact with contracts, manage resources, and execute complex strategies independently.
 
 ### Gaming
 - Still dreaming...
