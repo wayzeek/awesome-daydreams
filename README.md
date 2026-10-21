@@ -14,7 +14,7 @@
   </p>
 
   <p align="center">
-    A curated list of awesome <a href="https://www.dreams.fun/">Daydreams</a> resources, libraries, tools, and more.
+    A curated list of awesome <a href="https://www.daydreams.systems/">Daydreams</a> resources, libraries, tools, and more.
   </p>
 
   <p align="center">
@@ -45,8 +45,8 @@
 
 ### Official
 - [Github](https://github.com/daydreamsai/daydreams/tree/main) - Official GitHub repository.
-- [Website](https://www.dreams.fun/) - Official website.
-- [Docs](https://docs.dreams.fun/) - Official documentation.
+- [Website](https://www.daydreams.systems/) - Official website.
+- [Docs](https://docs.daydreams.systems/) - Official documentation.
 - [Discord](https://discord.com/invite/P8UUNGtHZs) - Official Discord server.
 - [Twitter](https://x.com/daydreamsagents) - Official Twitter account.
 - [Telegram](https://t.me/+kGzGMRvsQhY5Njg0) - Official Telegram channel.
